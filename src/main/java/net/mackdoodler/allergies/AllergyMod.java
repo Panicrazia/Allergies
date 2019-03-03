@@ -20,22 +20,11 @@ public class AllergyMod {
 	/* 
 	 * allergy mod ideas TODO:
 	 * 
-	 * placeable drugged meat that carnivores and zombies path to and eat (means a new ai for  eligible mobs)
+	 * storing a map of items to enums of a given allergy effect
 	 * 
-	 * drowsy potion effect which continuously applies more tranquilizers up to like 20 or some shit i dunno
-	 * 
-	 * tranquilizer arrows (5 tranq per?)
-	 * 
-	 * item which places down a vegitized slime, crafted with 4 slimeballs in a square
-	 * 	^possibly a custom entityItem for these which when put into the world destroys itself and spawns a vegitized slime
-	 *  ^slimes spawned with this item dont despawn
-	 * 
-	 * large slimes leave behind a slime residue (basically the thinnest snow layer but slimey) that slows and can be shovelled for a slimeball, or knocked away into slimeballs using water
-	 *  ^might be out of scope for the mod
-	 * 
-	 * add config for maximum tranquilizer strength (atm it is assumed to be 50)
-	 * 
-	 * make lunar lillies only bloom at night, plus give them a better model
+	 * effects:
+	 * nothing
+	 * instant death
 	 * 
 	 */
 	
